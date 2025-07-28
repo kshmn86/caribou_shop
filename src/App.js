@@ -14,7 +14,8 @@ function App() {
 
   return (
     <div className="App">
-      Work dfsdsdfsd asdaa sad
+      <h1>Добро пожаловать в приложенин</h1>
+
         <button onClick={onClose}>Close</button>
     </div>
   );
